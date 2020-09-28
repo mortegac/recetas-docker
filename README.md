@@ -6,18 +6,29 @@
 .- Docker-Compose
 ```
 .
-├── README.md
-└── Dockerfile-apache2
+├── MongoDb
+├── React-app
+└── Mysql
 ```
 
 
 
 .- Dockerfile
+
 ```
 .
-├── README.md
-└── Dockerfile-apache2
+├── apache2
+└── node-api
 ```
+
+
+
+## Articulos
+-  [Instalación de Docker en Ubuntu, OSX, Windows](https://medium.com/javascript-nicaragua/instalando-docker-d736fe0822a8)
+
+-  [Dockerizando SonarQube](https://medium.com/javascript-nicaragua/dockerizando-sonarqube-ae87838f6555)
+
+-  [Dockerizando una App en reactjs](https://medium.com/javascript-nicaragua/dockerizando-una-app-en-reactjs-d3c9aef9f7bc)
 
 
 ## Comandos
